@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Symfony2PluginSettings">
+    <option name="pathToUrlGenerator" value="symfony/app/cache/dev/appDevUrlGenerator.php" />
+    <option name="pathToTranslation" value="symfony/app/cache/dev/translations" />
+    <option name="directoryToWeb" value="symfony/web" />
+    <option name="directoryToApp" value="symfony/app" />
+    <option name="pluginEnabled" value="true" />
+  </component>
+</project>

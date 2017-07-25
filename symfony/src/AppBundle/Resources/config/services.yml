@@ -1,0 +1,7 @@
+services:
+    helper_service:
+        class: AppBundle\Services\Helpers
+    jwt_auth:
+        class: AppBundle\Services\JwtAuth
+        arguments:
+            - '@doctrine.orm.entity_manager'
